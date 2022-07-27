@@ -1,0 +1,4 @@
+variables:
+- team: casc-ws-test-2022
+- admin-user: mpolak-cloudbees-admin
+- manager-user: mpolak-cloudbees
